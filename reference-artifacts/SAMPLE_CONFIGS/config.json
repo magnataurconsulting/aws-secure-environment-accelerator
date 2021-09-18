@@ -547,7 +547,7 @@
   "mandatory-account-configs": {
     "management": {
       "account-name": "Org-Root",
-      "email": "aws_root+aseaT-management@magnataur.com",
+      "email": "aws_root@magnataur.com",
       "ou": "core",
       "src-filename": "config.json",
       "budget": {
